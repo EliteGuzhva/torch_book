@@ -42,3 +42,10 @@
 ##  9. Сегментационные сети (9_Segm)
 На занятии используется предобученная нейронная сеть U-net
 
+## Дополнительно:
+
+## Hinweis zum Download des Datensatzes in Kapitel 2 ([ссылка на github](https://github.com/falloutdurham/beginners-pytorch-deep-learning))
+
+
+
+
