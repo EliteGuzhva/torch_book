@@ -44,7 +44,10 @@
 
 ## Дополнительно:
 
-## Hinweis zum Download des Datensatzes in Kapitel 2 ([ссылка на github](https://github.com/falloutdurham/beginners-pytorch-deep-learning))
+Hinweis zum Download des Datensatzes in Kapitel 2 ([ссылка на github](https://github.com/falloutdurham/beginners-pytorch-deep-learning))
+
+Датасет для решения задачи классификации [Датасет](https://drive.google.com/file/d/16h8E7dnj5TpxF_ex4vF2do20iMWziM70/edit)
+
 
 
 
